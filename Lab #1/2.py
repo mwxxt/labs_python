@@ -1,4 +1,4 @@
-
+8
 print("\nОбщество в начале XXI века\n")
 year=int(input("Введите Ваш возраст: "))
 if year>=0 and year<=6:
