@@ -18,7 +18,7 @@ class Person:
         print("\nВам на работу!\n")
 
     def func5(self,year):
-        print("\nВам давно пора на пенсию!\n")
+        print("\nВам предоставляется выбор!\n")
 
     def func6(self,year):
         for i in range(0,5):
